@@ -1,0 +1,625 @@
+.play-exclusives1 {
+  position: relative;
+  letter-spacing: -0.06px;
+  line-height: 29.4px;
+  flex-shrink: 0;
+}
+.books1,
+.digital1,
+.electronics1,
+.games1,
+.lifestyle1,
+.movies1,
+.music1,
+.toys1 {
+  position: relative;
+  line-height: 29.4px;
+  display: inline-block;
+  min-width: 60px;
+  flex-shrink: 0;
+}
+.books1,
+.digital1,
+.electronics1,
+.lifestyle1,
+.movies1,
+.music1,
+.toys1 {
+  min-width: 59px;
+}
+.books1,
+.electronics1,
+.lifestyle1,
+.movies1,
+.music1,
+.toys1 {
+  min-width: 40px;
+}
+.books1,
+.electronics1,
+.lifestyle1,
+.movies1,
+.music1 {
+  min-width: 76px;
+}
+.books1,
+.electronics1,
+.movies1,
+.music1 {
+  min-width: 64px;
+}
+.books1,
+.electronics1,
+.music1 {
+  min-width: 53px;
+}
+.books1,
+.electronics1 {
+  min-width: 55px;
+}
+.electronics1 {
+  min-width: 98px;
+}
+.categories-container {
+  width: 1148.9px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 20px;
+  max-width: 100%;
+}
+.others {
+  color: inherit;
+}
+.link-toys-container {
+  width: 131px;
+  position: relative;
+  line-height: 23px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  white-space: nowrap;
+}
+.categories1 {
+  flex: 1;
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 82px;
+}
+.heading-21 {
+  align-self: stretch;
+  background-color: #8b9fe8;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 10px 72px 10px;
+  flex-shrink: 0;
+}
+.link-recently {
+  width: 112px;
+  position: relative;
+  letter-spacing: -0.07px;
+  line-height: 135%;
+  display: flex;
+  align-items: center;
+}
+.link-bestsellers {
+  position: relative;
+  line-height: 23px;
+  display: inline-block;
+  min-width: 87px;
+}
+.link-figures {
+  width: 64px;
+  position: relative;
+  line-height: 22px;
+  display: flex;
+  align-items: center;
+}
+.link-character,
+.link-plush {
+  position: relative;
+  line-height: 23px;
+  display: inline-block;
+  min-width: 87px;
+}
+.link-character {
+  min-width: 126px;
+}
+.link-project {
+  width: 116px;
+  position: relative;
+  line-height: 22px;
+  display: flex;
+  align-items: center;
+}
+.link-18,
+.link-vtuber {
+  position: relative;
+  line-height: 23px;
+}
+.link-18 {
+  line-height: 22px;
+  display: inline-block;
+  min-width: 97px;
+}
+.link-others {
+  width: 68px;
+  position: relative;
+  line-height: 23px;
+  display: flex;
+  align-items: center;
+}
+.link-clearance {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 112px;
+}
+.link-plush1 {
+  width: 105px;
+  position: relative;
+  line-height: 23px;
+  display: flex;
+  align-items: center;
+}
+.subcategories-container {
+  flex-direction: column;
+  gap: 12px;
+  flex-shrink: 0;
+}
+.border1,
+.link-toys-parent,
+.subcategories-container,
+.subcategories-container-wrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.subcategories-container-wrapper {
+  flex-direction: row;
+  padding: 0 10px;
+  text-align: left;
+  color: #3a4f66;
+}
+.border1,
+.link-toys-parent {
+  flex-direction: column;
+}
+.border1 {
+  align-self: stretch;
+  height: 420.4px;
+  border-radius: 5px;
+  border: 1px solid #fff;
+  box-sizing: border-box;
+  padding: 1px 0 379.4px;
+  gap: 15px;
+  flex-shrink: 0;
+  text-align: center;
+  color: #fff;
+}
+.link-toys-parent {
+  width: 228.6px;
+  gap: 12px;
+}
+.png-icon,
+.png-icon1,
+.png-icon2 {
+  position: relative;
+  overflow: hidden;
+}
+.png-icon {
+  align-self: stretch;
+  flex: 1;
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: contain;
+}
+.png-icon1,
+.png-icon2 {
+  height: 119.6px;
+  width: 120px;
+  flex-shrink: 0;
+  object-fit: cover;
+  min-height: 120px;
+  z-index: 1;
+}
+.png-icon2 {
+  height: 118.8px;
+  object-fit: contain;
+  min-height: 119px;
+  z-index: 2;
+}
+.png-parent,
+.product-images {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.png-parent {
+  height: 450.2px;
+  width: 375.6px;
+  flex-direction: column;
+  padding: 0 18px 0 0;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.heading-1,
+.link-pokemon {
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+.heading-1 {
+  margin: 0;
+  width: 436px;
+  font-size: 32px;
+  line-height: 39px;
+  font-weight: 400;
+  font-family: Raleway;
+  max-width: 100%;
+}
+.link-pokemon {
+  align-self: stretch;
+  height: 93px;
+  line-height: 135%;
+  flex-shrink: 0;
+}
+.stock {
+  position: relative;
+  letter-spacing: 0.15em;
+  line-height: 110%;
+  text-transform: capitalize;
+  display: inline-block;
+  min-width: 34px;
+}
+.background2 {
+  width: 45px;
+  border-radius: 5px;
+  background-color: #00965e;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 4.6px 4px 16.4px 6px;
+  box-sizing: border-box;
+}
+.in-our-warehouse {
+  height: 30px;
+  flex: 1;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  color: #3a4f66;
+  text-align: left;
+  display: flex;
+  align-items: center;
+}
+.background-group {
+  width: 218px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 10px;
+  text-align: center;
+  font-size: 10px;
+  color: #fff;
+}
+.usd-25 {
+  height: 36px;
+  position: relative;
+  font-size: 18px;
+  line-height: 120%;
+  font-family: Raleway;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  min-width: 75px;
+}
+.link-pokemon-center-parent {
+  width: 414px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 10px;
+  box-sizing: border-box;
+  gap: 16px;
+  max-width: 100%;
+}
+.link,
+.link-paypal {
+  height: 40px;
+  flex: 1;
+  min-width: 175px;
+}
+.link-paypal {
+  flex: 0.6095;
+}
+.purchase-buttons {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 10px;
+}
+.btc-0001048362783-us192 {
+  width: 286px;
+  position: relative;
+  line-height: 22px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.link1,
+.link2 {
+  align-self: stretch;
+}
+.link1 {
+  border-radius: 5px;
+  background-color: #8b9fe8;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 7px 20px 11px;
+}
+.link2 {
+  height: 40px;
+}
+.purchase-options {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 11px;
+  text-align: center;
+  color: #fff;
+}
+.heading-1-worried-psyduck-w-parent {
+  flex: 1;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 14px;
+  min-width: 357px;
+}
+.categories-container-parent,
+.frame-parent10,
+.heading-1-worried-psyduck-w-parent {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.frame-parent10 {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  gap: 5.9px;
+  flex-shrink: 0;
+  text-align: left;
+  font-size: 16px;
+  font-family: Archivo;
+}
+.categories-container-parent {
+  flex: 1;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 25px;
+}
+.blog3 {
+  position: relative;
+  line-height: 29.4px;
+  display: inline-block;
+  min-width: 39.2px;
+  flex-shrink: 0;
+}
+.ga066010022png-icon {
+  height: 50px;
+  width: 50px;
+  position: absolute;
+  margin: 0 !important;
+  top: -23.5px;
+  left: -14px;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.b {
+  position: relative;
+  line-height: 38px;
+  display: inline-block;
+  text-shadow: -1px -1px 0#fff, 1px -1px 0#fff, -1px 1px 0#fff, 1px 1px 0#fff,
+    -2px -1px 0#fff, 2px -1px 0#fff, -2px 1px 0#fff, 2px 1px 0#fff;
+  min-width: 23px;
+  z-index: 1;
+}
+.blog-content-inner,
+.ga066010022png-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.ga066010022png-parent {
+  justify-content: flex-start;
+  position: relative;
+}
+.blog-content-inner {
+  justify-content: flex-end;
+  padding: 0 4px 0 5px;
+}
+.div,
+.form-icon,
+.image-icon,
+.image-icon1 {
+  width: 32px;
+  height: 32px;
+  position: relative;
+}
+.div {
+  height: 30.1px;
+  width: 9.1px;
+  line-height: 135%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  min-width: 9.1px;
+}
+.wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 11px;
+  font-size: 16px;
+  color: #3a4f66;
+  font-family: Archivo;
+}
+.blog-content,
+.blog-parent {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.blog-content {
+  width: 32px;
+  align-items: flex-end;
+  gap: 4px;
+  flex-shrink: 0;
+  font-size: 19px;
+  color: #8b9fe8;
+}
+.blog-parent {
+  align-items: flex-start;
+  gap: 48.5px;
+}
+.frame-parent9,
+.frame-wrapper3 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.frame-parent9 {
+  flex: 1;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  gap: 63.4px;
+}
+.frame-wrapper3 {
+  align-self: stretch;
+  justify-content: flex-end;
+  padding: 0 1px 0 0;
+  box-sizing: border-box;
+}
+.frame-section {
+  width: 1270.5px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 26.8px;
+  max-width: 100%;
+  text-align: center;
+  font-size: 19.6px;
+  color: #3a4f66;
+  font-family: Lato;
+}
+.product-description-inner {
+  width: 1905px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 20px;
+  box-sizing: border-box;
+  max-width: 100%;
+  flex-shrink: 0;
+  margin-top: 40px;
+}
+.product-description {
+  width: 100%;
+  position: relative;
+  background-color: #fff;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 80px;
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1350px) {
+  .frame-parent10 {
+    flex-wrap: wrap;
+  }
+  .product-description {
+    gap: 40px;
+  }
+}
+@media screen and (max-width: 900px) {
+  .categories-container {
+    flex-wrap: wrap;
+  }
+  .border1 {
+    padding-top: 20px;
+    padding-bottom: 247px;
+    box-sizing: border-box;
+  }
+  .heading-1 {
+    font-size: 26px;
+    line-height: 31px;
+  }
+  .purchase-buttons {
+    flex-wrap: wrap;
+  }
+  .categories-container-parent {
+    min-width: 100%;
+  }
+  .frame-parent9 {
+    gap: 32px;
+  }
+  .product-description {
+    gap: 20px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .border1 {
+    padding-bottom: 161px;
+    box-sizing: border-box;
+  }
+  .heading-1 {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .link {
+    padding-left: 20px;
+    padding-right: 20px;
+    box-sizing: border-box;
+  }
+  .link-paypal {
+    flex: 1;
+  }
+  .link-paypal,
+  .link2 {
+    padding-left: 20px;
+    padding-right: 20px;
+    box-sizing: border-box;
+  }
+  .heading-1-worried-psyduck-w-parent {
+    min-width: 100%;
+  }
+  .frame-parent9 {
+    gap: 16px;
+  }
+}

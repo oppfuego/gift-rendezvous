@@ -1,0 +1,33 @@
+.figure-figure-link-socia {
+  width: 200px;
+  height: 200px;
+  position: relative;
+  border-radius: 5px;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.ultimate-gift-cards {
+  flex: 1;
+  position: relative;
+  line-height: 135%;
+}
+.figure-containers,
+.figure-titles {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.figure-titles {
+  flex-direction: row;
+  padding: 0 16px;
+}
+.figure-containers {
+  flex-direction: column;
+  gap: 24px;
+  text-align: center;
+  font-size: 16px;
+  color: #444;
+  font-family: Archivo;
+}

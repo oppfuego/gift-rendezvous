@@ -1,0 +1,428 @@
+.your-dashboard {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 115px;
+}
+.header6 {
+  border: 0;
+  background-color: transparent;
+  align-self: stretch;
+  height: 54px;
+  font-family: Archivo;
+  font-size: 16px;
+  color: #1c1c1c;
+}
+.cards-icon {
+  height: 100%;
+  width: 100%;
+  object-fit: contain;
+  position: absolute;
+  left: 0;
+  top: 0;
+  transform: scale(1.129);
+}
+.wrapper-cards {
+  height: 133px;
+  width: 124px;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.panorma-presents-gift {
+  width: 179px;
+  position: relative;
+  line-height: 135%;
+  display: inline-block;
+}
+.panorma-presents-gift-card-wrapper {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 20px 0 0;
+  box-sizing: border-box;
+  min-width: 148px;
+}
+.download-credit-details {
+  white-space: nowrap;
+}
+.credits,
+.download-credit-details {
+  align-self: stretch;
+  position: relative;
+  line-height: 22px;
+}
+.download-credits,
+.download-item {
+  width: 150px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 10px;
+  color: #1e1e1e;
+}
+.download-item {
+  width: 564px;
+  flex-direction: row;
+  padding: 0 32px 0 0;
+  box-sizing: border-box;
+  gap: 15px;
+  max-width: 100%;
+  color: #1c1c1c;
+}
+.hrs,
+.up-time1 {
+  align-self: stretch;
+  position: relative;
+  line-height: 22px;
+}
+.up-time {
+  width: 150px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 10px;
+}
+.icons-block {
+  width: 16px;
+  height: 16px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.renewal-icons {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 3px;
+}
+.april-2024,
+.next-renewal {
+  align-self: stretch;
+  position: relative;
+  line-height: 22px;
+}
+.renewal-date,
+.renewal-date1 {
+  display: flex;
+  align-items: flex-start;
+}
+.renewal-date1 {
+  flex: 1;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 10px;
+}
+.renewal-date {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: flex-end;
+  padding: 0 1px 0 9px;
+}
+.cancel {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 51px;
+}
+.icons-block1 {
+  width: 16px;
+  height: 16px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.icons-block-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 3px 0 0;
+}
+.renew {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 50px;
+}
+.cancellation,
+.frame-parent4 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 7px;
+}
+.cancellation {
+  align-self: stretch;
+  justify-content: space-between;
+  gap: 20px;
+}
+.renewal-details {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 36px;
+}
+.download-items,
+.download-renewal {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.download-renewal {
+  width: 183px;
+  align-items: flex-end;
+  gap: 7px;
+}
+.download-items {
+  align-self: stretch;
+  align-items: flex-start;
+  gap: 44px;
+  max-width: 100%;
+}
+.downloads-child {
+  align-self: stretch;
+  height: 1px;
+  position: relative;
+  border-top: 1px solid #cacaca;
+  box-sizing: border-box;
+}
+.dashboard-header,
+.downloads {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.downloads {
+  align-self: stretch;
+  gap: 15px;
+}
+.dashboard-header {
+  flex: 1;
+  gap: 36px;
+}
+.header7 {
+  border: 0;
+  background-color: transparent;
+  align-self: stretch;
+  height: 54px;
+  font-family: Archivo;
+  font-size: 16px;
+  color: #1c1c1c;
+}
+.darnell-roob,
+.name {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 44px;
+}
+.darnell-roob {
+  text-align: right;
+  min-width: 93px;
+}
+.checkout-field-details {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 20px;
+}
+.email-address {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 104px;
+}
+.darnellroobhotmailcom {
+  position: relative;
+  line-height: 22px;
+  text-align: right;
+  white-space: nowrap;
+}
+.email-address-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 20px;
+}
+.basic,
+.plan {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 32px;
+}
+.basic {
+  text-align: right;
+  min-width: 40px;
+}
+.plan-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 20px;
+}
+.april-20241,
+.expiry-date {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 83px;
+}
+.april-20241 {
+  text-align: right;
+  min-width: 98px;
+}
+.expiry-date-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 20px;
+}
+.auto-renewal,
+.on {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 99px;
+}
+.on {
+  text-align: right;
+  min-width: 22px;
+}
+.account-details,
+.account-details-labels {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 20px;
+}
+.account-details {
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 32px;
+}
+.checkout-details3,
+.user-fields,
+.user-information {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.user-fields {
+  flex: 1;
+  flex-direction: column;
+  gap: 32px;
+}
+.checkout-details3,
+.user-information {
+  box-sizing: border-box;
+}
+.user-information {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 25px;
+}
+.checkout-details3 {
+  flex: 1;
+  border-radius: 5px;
+  background-color: #fff;
+  flex-direction: column;
+  padding: 0 0 32px;
+  gap: 36px;
+}
+.checkout-details-wrapper {
+  width: 504px;
+  background-color: #9f0132;
+  justify-content: flex-start;
+  min-width: 504px;
+}
+.checkout-details-wrapper,
+.content,
+.dashboard-content {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.dashboard-content {
+  width: 1600px;
+  justify-content: flex-start;
+  gap: 20px;
+}
+.content {
+  align-self: stretch;
+  justify-content: center;
+  padding: 0 20px;
+  box-sizing: border-box;
+  text-align: left;
+  font-size: 16px;
+  color: #1e1e1e;
+  font-family: Archivo;
+}
+@media screen and (max-width: 1350px) {
+  .download-items {
+    flex-wrap: wrap;
+  }
+  .checkout-details-wrapper {
+    flex: 1;
+  }
+  .dashboard-content {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 900px) {
+  .download-item {
+    flex-wrap: wrap;
+  }
+  .download-items {
+    gap: 22px;
+  }
+  .dashboard-header {
+    gap: 18px;
+    min-width: 100%;
+  }
+  .checkout-details3 {
+    gap: 18px;
+  }
+  .checkout-details-wrapper {
+    gap: 23px;
+    min-width: 100%;
+  }
+  .dashboard-content {
+    gap: 23px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .checkout-field-details,
+  .email-address-parent,
+  .expiry-date-parent,
+  .plan-parent {
+    flex-wrap: wrap;
+  }
+  .account-details,
+  .user-fields {
+    gap: 16px;
+  }
+}

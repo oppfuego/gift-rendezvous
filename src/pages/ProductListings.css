@@ -1,0 +1,1463 @@
+.play-exclusives {
+  width: 140.3px;
+  white-space: nowrap;
+}
+.digital,
+.games,
+.play-exclusives,
+.toys {
+  height: 29.4px;
+  position: relative;
+  line-height: 120%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.games {
+  width: 59.7px;
+  min-width: 59.7px;
+}
+.digital,
+.toys {
+  width: 57.3px;
+}
+.toys {
+  width: 39.1px;
+  min-width: 39.1px;
+}
+.lifestyle {
+  width: 74px;
+  min-width: 74px;
+}
+.blog,
+.books,
+.electronics,
+.lifestyle,
+.movies,
+.music {
+  height: 29.4px;
+  position: relative;
+  line-height: 120%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.movies {
+  width: 63.7px;
+  min-width: 63.7px;
+}
+.blog,
+.books,
+.electronics,
+.music {
+  width: 52.5px;
+}
+.blog,
+.books,
+.electronics {
+  width: 54.5px;
+  min-width: 54.5px;
+}
+.blog,
+.electronics {
+  width: 95.8px;
+  min-width: 95.8px;
+}
+.blog {
+  width: 39.2px;
+  min-width: 39.2px;
+}
+.navigation-list {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 0 28px 0 0;
+  gap: 20px;
+  text-align: center;
+  font-size: 18px;
+  color: #3a4f66;
+  font-family: Raleway;
+}
+.container-icon {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  border-radius: 5px;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.navigation-list-wrapper,
+.navigation-list-wrapper-wrapper {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.navigation-list-wrapper {
+  align-self: stretch;
+  align-items: center;
+  gap: 25px;
+}
+.navigation-list-wrapper-wrapper {
+  width: 1300px;
+  align-items: flex-start;
+  padding: 10px;
+  box-sizing: border-box;
+  max-width: 130000%;
+  flex-shrink: 0;
+}
+.navigation-container,
+.navigation-wrapper {
+  align-self: stretch;
+  display: flex;
+  box-sizing: border-box;
+}
+.navigation-wrapper {
+  width: 1px;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0;
+  flex-shrink: 0;
+}
+.navigation-container {
+  height: 554.4px;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 20px;
+}
+.categories {
+  flex: 1;
+  position: relative;
+  line-height: 22px;
+}
+.heading-2 {
+  align-self: stretch;
+  background-color: #8b9fe8;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 10px 62px 10px;
+  color: #fff;
+}
+.link-preorder {
+  align-self: stretch;
+  position: relative;
+  line-height: 23px;
+}
+.link-nintendo,
+.link-standard {
+  width: 147px;
+  position: relative;
+  line-height: 22px;
+  display: flex;
+  align-items: center;
+}
+.link-standard {
+  width: 153px;
+  line-height: 23px;
+}
+.link-all,
+.link-exclusive,
+.link-limited,
+.link-other,
+.link-ps4 {
+  width: 135px;
+  position: relative;
+  line-height: 22px;
+  display: flex;
+  align-items: center;
+}
+.link-all,
+.link-exclusive,
+.link-other,
+.link-ps4 {
+  width: 96px;
+  line-height: 23px;
+}
+.link-all,
+.link-exclusive,
+.link-other {
+  width: 128px;
+}
+.link-all,
+.link-exclusive {
+  width: 140px;
+  line-height: 22px;
+}
+.link-all {
+  width: 113px;
+  line-height: 23px;
+}
+.category-links-container,
+.category-links-wrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.category-links-wrapper {
+  flex: 1;
+  flex-direction: column;
+  gap: 10px;
+}
+.category-links-container {
+  width: 191px;
+  flex-direction: row;
+  padding: 0 10px;
+  box-sizing: border-box;
+}
+.link-paex,
+.link-paex1 {
+  position: relative;
+  line-height: 22px;
+}
+.link-paex1 {
+  width: 96px;
+  line-height: 23px;
+  display: flex;
+  align-items: center;
+}
+.border,
+.featured-category,
+.featured-links-wrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.featured-links-wrapper {
+  flex-direction: column;
+  gap: 3px;
+}
+.border,
+.featured-category {
+  flex-direction: row;
+  padding: 0 10px;
+}
+.border {
+  width: 220.4px;
+  border-radius: 5px;
+  border: 1px solid #fff;
+  box-sizing: border-box;
+  flex-direction: column;
+  padding: 0 0 15px;
+  gap: 15.8px;
+  flex-shrink: 0;
+}
+.itunes-10000-yen-gift-card-itu-icon {
+  width: 106.6px;
+  flex: 1;
+  position: relative;
+  max-height: 100%;
+  overflow: hidden;
+  object-fit: contain;
+}
+.amazon-gift-card,
+.us25 {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.amazon-gift-card {
+  align-self: stretch;
+  height: 48px;
+  line-height: 135%;
+  flex-shrink: 0;
+}
+.us25 {
+  width: 88px;
+  line-height: 22px;
+  white-space: nowrap;
+}
+.gift-card-list,
+.gift-card-title {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.gift-card-title {
+  align-self: stretch;
+  gap: 3px;
+}
+.gift-card-list {
+  position: absolute;
+  top: 0;
+  left: 28.3px;
+  width: 175px;
+  height: 242px;
+  gap: 19px;
+}
+.itunes-10000-yen-gift-card-itu-icon1 {
+  width: 106.6px;
+  flex: 1;
+  position: relative;
+  max-height: 100%;
+  overflow: hidden;
+  object-fit: contain;
+}
+.apple-itunes-gift,
+.us50 {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.apple-itunes-gift {
+  align-self: stretch;
+  height: 48px;
+  line-height: 135%;
+  flex-shrink: 0;
+}
+.us50 {
+  width: 88px;
+  line-height: 22px;
+  white-space: nowrap;
+}
+.apple-itunes-gift-card-parent,
+.gift-card-list1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.apple-itunes-gift-card-parent {
+  align-self: stretch;
+  gap: 3px;
+}
+.gift-card-list1 {
+  position: absolute;
+  top: 0;
+  left: 227.3px;
+  width: 175px;
+  height: 242px;
+  gap: 19px;
+}
+.itunes-10000-yen-gift-card-itu-icon2 {
+  width: 106.6px;
+  flex: 1;
+  position: relative;
+  max-height: 100%;
+  overflow: hidden;
+  object-fit: contain;
+}
+.google-play-gift,
+.us10 {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.google-play-gift {
+  align-self: stretch;
+  height: 48px;
+  line-height: 135%;
+  flex-shrink: 0;
+}
+.us10 {
+  width: 88px;
+  line-height: 22px;
+  white-space: nowrap;
+}
+.gift-card-list2,
+.google-play-gift-card-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.google-play-gift-card-parent {
+  align-self: stretch;
+  gap: 3px;
+}
+.gift-card-list2 {
+  position: absolute;
+  top: 0;
+  left: 426.3px;
+  width: 175px;
+  height: 242px;
+  gap: 19px;
+}
+.itunes-10000-yen-gift-card-itu-icon3 {
+  width: 106.6px;
+  flex: 1;
+  position: relative;
+  max-height: 100%;
+  overflow: hidden;
+  object-fit: contain;
+}
+.starbucks-gift-card,
+.us15 {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.starbucks-gift-card {
+  align-self: stretch;
+  height: 48px;
+  line-height: 135%;
+  flex-shrink: 0;
+}
+.us15 {
+  width: 88px;
+  line-height: 22px;
+  white-space: nowrap;
+}
+.gift-card-list3,
+.starbucks-gift-card-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.starbucks-gift-card-parent {
+  align-self: stretch;
+  gap: 3px;
+}
+.gift-card-list3 {
+  position: absolute;
+  top: 0;
+  left: 625.3px;
+  width: 175px;
+  height: 242px;
+  gap: 19px;
+}
+.itunes-10000-yen-gift-card-itu-icon4 {
+  width: 106.6px;
+  flex: 1;
+  position: relative;
+  max-height: 100%;
+  overflow: hidden;
+  object-fit: contain;
+}
+.us100,
+.walmart-gift-card {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.walmart-gift-card {
+  align-self: stretch;
+  height: 48px;
+  line-height: 135%;
+  flex-shrink: 0;
+}
+.us100 {
+  width: 88px;
+  line-height: 22px;
+  white-space: nowrap;
+}
+.gift-card-list4,
+.walmart-gift-card-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.walmart-gift-card-parent {
+  align-self: stretch;
+  gap: 3px;
+}
+.gift-card-list4 {
+  position: absolute;
+  top: 0;
+  left: 824.3px;
+  width: 175px;
+  height: 242px;
+  gap: 19px;
+}
+.itunes-10000-yen-gift-card-itu-icon5 {
+  width: 106.6px;
+  flex: 1;
+  position: relative;
+  max-height: 100%;
+  overflow: hidden;
+  object-fit: contain;
+}
+.netflix-gift-card,
+.us30 {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.netflix-gift-card {
+  align-self: stretch;
+  height: 48px;
+  line-height: 135%;
+  flex-shrink: 0;
+}
+.us30 {
+  width: 88px;
+  line-height: 22px;
+  white-space: nowrap;
+}
+.gift-card-list5,
+.netflix-gift-card-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.netflix-gift-card-parent {
+  align-self: stretch;
+  gap: 3px;
+}
+.gift-card-list5 {
+  position: absolute;
+  top: 274px;
+  left: 28.3px;
+  width: 175px;
+  height: 242px;
+  gap: 19px;
+}
+.itunes-10000-yen-gift-card-itu-icon6 {
+  width: 106.6px;
+  flex: 1;
+  position: relative;
+  max-height: 100%;
+  overflow: hidden;
+  object-fit: contain;
+}
+.spotify-gift-card,
+.us60 {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.spotify-gift-card {
+  align-self: stretch;
+  height: 48px;
+  line-height: 135%;
+  flex-shrink: 0;
+}
+.us60 {
+  width: 88px;
+  line-height: 22px;
+  white-space: nowrap;
+}
+.gift-card-list6,
+.spotify-gift-card-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.spotify-gift-card-parent {
+  align-self: stretch;
+  gap: 3px;
+}
+.gift-card-list6 {
+  position: absolute;
+  top: 274px;
+  left: 227.3px;
+  width: 175px;
+  height: 242px;
+  gap: 19px;
+}
+.itunes-10000-yen-gift-card-itu-icon7 {
+  width: 106.6px;
+  flex: 1;
+  position: relative;
+  max-height: 100%;
+  overflow: hidden;
+  object-fit: contain;
+}
+.playstation-store-gift,
+.us75 {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.playstation-store-gift {
+  align-self: stretch;
+  height: 48px;
+  line-height: 135%;
+  flex-shrink: 0;
+}
+.us75 {
+  width: 88px;
+  line-height: 22px;
+  white-space: nowrap;
+}
+.gift-card-list7,
+.playstation-store-gift-card-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.playstation-store-gift-card-parent {
+  align-self: stretch;
+  gap: 3px;
+}
+.gift-card-list7 {
+  position: absolute;
+  top: 274px;
+  left: 426.3px;
+  width: 175px;
+  height: 242px;
+  gap: 19px;
+}
+.itunes-10000-yen-gift-card-itu-icon8 {
+  width: 106.6px;
+  flex: 1;
+  position: relative;
+  max-height: 100%;
+  overflow: hidden;
+  object-fit: contain;
+}
+.us40,
+.xbox-gift-card {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.xbox-gift-card {
+  align-self: stretch;
+  height: 48px;
+  line-height: 135%;
+  flex-shrink: 0;
+}
+.us40 {
+  width: 88px;
+  line-height: 22px;
+  white-space: nowrap;
+}
+.gift-card-list8,
+.xbox-gift-card-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.xbox-gift-card-parent {
+  align-self: stretch;
+  gap: 3px;
+}
+.gift-card-list8 {
+  position: absolute;
+  top: 274px;
+  left: 625.3px;
+  width: 175px;
+  height: 242px;
+  gap: 19px;
+}
+.itunes-10000-yen-gift-card-itu-icon9 {
+  width: 106.6px;
+  flex: 1;
+  position: relative;
+  max-height: 100%;
+  overflow: hidden;
+  object-fit: contain;
+}
+.best-buy-gift,
+.us35 {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.best-buy-gift {
+  align-self: stretch;
+  height: 48px;
+  line-height: 135%;
+  flex-shrink: 0;
+}
+.us35 {
+  width: 88px;
+  line-height: 22px;
+  white-space: nowrap;
+}
+.best-buy-gift-card-parent,
+.gift-card-list9 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.best-buy-gift-card-parent {
+  align-self: stretch;
+  gap: 3px;
+}
+.gift-card-list9 {
+  position: absolute;
+  top: 274px;
+  left: 824.3px;
+  width: 175px;
+  height: 242px;
+  gap: 19px;
+}
+.itunes-10000-yen-gift-card-itu-icon10 {
+  width: 106.6px;
+  flex: 1;
+  position: relative;
+  max-height: 100%;
+  overflow: hidden;
+  object-fit: contain;
+}
+.amazon-gift-card1,
+.us251 {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.amazon-gift-card1 {
+  align-self: stretch;
+  height: 48px;
+  line-height: 135%;
+  flex-shrink: 0;
+}
+.us251 {
+  width: 88px;
+  line-height: 22px;
+  white-space: nowrap;
+}
+.amazon-gift-card-parent,
+.gift-card-list10 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.amazon-gift-card-parent {
+  align-self: stretch;
+  gap: 3px;
+}
+.gift-card-list10 {
+  position: absolute;
+  top: 548px;
+  left: 28.3px;
+  width: 175px;
+  height: 242px;
+  gap: 19px;
+}
+.itunes-10000-yen-gift-card-itu-icon11 {
+  width: 106.6px;
+  flex: 1;
+  position: relative;
+  max-height: 100%;
+  overflow: hidden;
+  object-fit: contain;
+}
+.apple-itunes-gift1,
+.us501 {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.apple-itunes-gift1 {
+  align-self: stretch;
+  height: 48px;
+  line-height: 135%;
+  flex-shrink: 0;
+}
+.us501 {
+  width: 88px;
+  line-height: 22px;
+  white-space: nowrap;
+}
+.apple-itunes-gift-card-group,
+.gift-card-list11 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.apple-itunes-gift-card-group {
+  align-self: stretch;
+  gap: 3px;
+}
+.gift-card-list11 {
+  position: absolute;
+  top: 548px;
+  left: 227.3px;
+  width: 175px;
+  height: 242px;
+  gap: 19px;
+}
+.itunes-10000-yen-gift-card-itu-icon12 {
+  width: 106.6px;
+  flex: 1;
+  position: relative;
+  max-height: 100%;
+  overflow: hidden;
+  object-fit: contain;
+}
+.google-play-gift1,
+.us101 {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.google-play-gift1 {
+  align-self: stretch;
+  height: 48px;
+  line-height: 135%;
+  flex-shrink: 0;
+}
+.us101 {
+  width: 88px;
+  line-height: 22px;
+  white-space: nowrap;
+}
+.gift-card-list12,
+.google-play-gift-card-group {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.google-play-gift-card-group {
+  align-self: stretch;
+  gap: 3px;
+}
+.gift-card-list12 {
+  position: absolute;
+  top: 548px;
+  left: 426.3px;
+  width: 175px;
+  height: 242px;
+  gap: 19px;
+}
+.itunes-10000-yen-gift-card-itu-icon13 {
+  width: 106.6px;
+  flex: 1;
+  position: relative;
+  max-height: 100%;
+  overflow: hidden;
+  object-fit: contain;
+}
+.starbucks-gift-card1,
+.us151 {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.starbucks-gift-card1 {
+  align-self: stretch;
+  height: 48px;
+  line-height: 135%;
+  flex-shrink: 0;
+}
+.us151 {
+  width: 88px;
+  line-height: 22px;
+  white-space: nowrap;
+}
+.gift-card-list13,
+.starbucks-gift-card-group {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.starbucks-gift-card-group {
+  align-self: stretch;
+  gap: 3px;
+}
+.gift-card-list13 {
+  position: absolute;
+  top: 548px;
+  left: 625.3px;
+  width: 175px;
+  height: 242px;
+  gap: 19px;
+}
+.itunes-10000-yen-gift-card-itu-icon14 {
+  width: 106.6px;
+  flex: 1;
+  position: relative;
+  max-height: 100%;
+  overflow: hidden;
+  object-fit: contain;
+}
+.us1001,
+.walmart-gift-card1 {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.walmart-gift-card1 {
+  align-self: stretch;
+  height: 48px;
+  line-height: 135%;
+  flex-shrink: 0;
+}
+.us1001 {
+  width: 88px;
+  line-height: 22px;
+  white-space: nowrap;
+}
+.gift-card-list14,
+.walmart-gift-card-group {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.walmart-gift-card-group {
+  align-self: stretch;
+  gap: 3px;
+}
+.gift-card-list14 {
+  position: absolute;
+  top: 548px;
+  left: 824.3px;
+  width: 175px;
+  height: 242px;
+  gap: 19px;
+}
+.itunes-10000-yen-gift-card-itu-icon15 {
+  width: 106.6px;
+  flex: 1;
+  position: relative;
+  max-height: 100%;
+  overflow: hidden;
+  object-fit: contain;
+}
+.netflix-gift-card1,
+.us301 {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.netflix-gift-card1 {
+  align-self: stretch;
+  height: 48px;
+  line-height: 135%;
+  flex-shrink: 0;
+}
+.us301 {
+  width: 88px;
+  line-height: 22px;
+  white-space: nowrap;
+}
+.gift-card-list15,
+.netflix-gift-card-group {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.netflix-gift-card-group {
+  align-self: stretch;
+  gap: 3px;
+}
+.gift-card-list15 {
+  position: absolute;
+  top: 822px;
+  left: 28.3px;
+  width: 175px;
+  height: 242px;
+  gap: 19px;
+}
+.itunes-10000-yen-gift-card-itu-icon16 {
+  width: 106.6px;
+  flex: 1;
+  position: relative;
+  max-height: 100%;
+  overflow: hidden;
+  object-fit: contain;
+}
+.spotify-gift-card1,
+.us601 {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.spotify-gift-card1 {
+  align-self: stretch;
+  height: 48px;
+  line-height: 135%;
+  flex-shrink: 0;
+}
+.us601 {
+  width: 88px;
+  line-height: 22px;
+  white-space: nowrap;
+}
+.gift-card-list16,
+.spotify-gift-card-group {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.spotify-gift-card-group {
+  align-self: stretch;
+  gap: 3px;
+}
+.gift-card-list16 {
+  position: absolute;
+  top: 822px;
+  left: 227.3px;
+  width: 175px;
+  height: 242px;
+  gap: 19px;
+}
+.itunes-10000-yen-gift-card-itu-icon17 {
+  width: 106.6px;
+  flex: 1;
+  position: relative;
+  max-height: 100%;
+  overflow: hidden;
+  object-fit: contain;
+}
+.playstation-store-gift1,
+.us751 {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.playstation-store-gift1 {
+  align-self: stretch;
+  height: 48px;
+  line-height: 135%;
+  flex-shrink: 0;
+}
+.us751 {
+  width: 88px;
+  line-height: 22px;
+  white-space: nowrap;
+}
+.gift-card-list17,
+.playstation-store-gift-card-group {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.playstation-store-gift-card-group {
+  align-self: stretch;
+  gap: 3px;
+}
+.gift-card-list17 {
+  position: absolute;
+  top: 822px;
+  left: 426.3px;
+  width: 175px;
+  height: 242px;
+  gap: 19px;
+}
+.itunes-10000-yen-gift-card-itu-icon18 {
+  width: 106.6px;
+  flex: 1;
+  position: relative;
+  max-height: 100%;
+  overflow: hidden;
+  object-fit: contain;
+}
+.us401,
+.xbox-gift-card1 {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.xbox-gift-card1 {
+  align-self: stretch;
+  height: 48px;
+  line-height: 135%;
+  flex-shrink: 0;
+}
+.us401 {
+  width: 88px;
+  line-height: 22px;
+  white-space: nowrap;
+}
+.gift-card-list18,
+.xbox-gift-card-group {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.xbox-gift-card-group {
+  align-self: stretch;
+  gap: 3px;
+}
+.gift-card-list18 {
+  position: absolute;
+  top: 822px;
+  left: 625.3px;
+  width: 175px;
+  height: 242px;
+  gap: 19px;
+}
+.itunes-10000-yen-gift-card-itu-icon19 {
+  width: 106.6px;
+  flex: 1;
+  position: relative;
+  max-height: 100%;
+  overflow: hidden;
+  object-fit: contain;
+}
+.best-buy-gift1,
+.us351 {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.best-buy-gift1 {
+  align-self: stretch;
+  height: 48px;
+  line-height: 135%;
+  flex-shrink: 0;
+}
+.us351 {
+  width: 88px;
+  line-height: 22px;
+  white-space: nowrap;
+}
+.best-buy-gift-card-group,
+.gift-card-list19 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.best-buy-gift-card-group {
+  align-self: stretch;
+  gap: 3px;
+}
+.gift-card-list19 {
+  position: absolute;
+  top: 822px;
+  left: 824.3px;
+  width: 175px;
+  height: 242px;
+  gap: 19px;
+}
+.itunes-10000-yen-gift-card-itu-icon20 {
+  width: 106.6px;
+  flex: 1;
+  position: relative;
+  max-height: 100%;
+  overflow: hidden;
+  object-fit: contain;
+}
+.netflix-gift-card2,
+.us302 {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.netflix-gift-card2 {
+  align-self: stretch;
+  height: 48px;
+  line-height: 135%;
+  flex-shrink: 0;
+}
+.us302 {
+  width: 88px;
+  line-height: 22px;
+  white-space: nowrap;
+}
+.gift-card-list20,
+.netflix-gift-card-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.netflix-gift-card-container {
+  align-self: stretch;
+  gap: 3px;
+}
+.gift-card-list20 {
+  position: absolute;
+  top: 1096px;
+  left: 28.3px;
+  width: 175px;
+  height: 242px;
+  gap: 19px;
+}
+.itunes-10000-yen-gift-card-itu-icon21 {
+  width: 106.6px;
+  flex: 1;
+  position: relative;
+  max-height: 100%;
+  overflow: hidden;
+  object-fit: contain;
+}
+.spotify-gift-card2,
+.us602 {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.spotify-gift-card2 {
+  align-self: stretch;
+  height: 48px;
+  line-height: 135%;
+  flex-shrink: 0;
+}
+.us602 {
+  width: 88px;
+  line-height: 22px;
+  white-space: nowrap;
+}
+.gift-card-list21,
+.spotify-gift-card-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.spotify-gift-card-container {
+  align-self: stretch;
+  gap: 3px;
+}
+.gift-card-list21 {
+  position: absolute;
+  top: 1096px;
+  left: 227.3px;
+  width: 175px;
+  height: 242px;
+  gap: 19px;
+}
+.itunes-10000-yen-gift-card-itu-icon22 {
+  width: 106.6px;
+  flex: 1;
+  position: relative;
+  max-height: 100%;
+  overflow: hidden;
+  object-fit: contain;
+}
+.playstation-store-gift2,
+.us752 {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.playstation-store-gift2 {
+  align-self: stretch;
+  height: 48px;
+  line-height: 135%;
+  flex-shrink: 0;
+}
+.us752 {
+  width: 88px;
+  line-height: 22px;
+  white-space: nowrap;
+}
+.gift-card-list22,
+.playstation-store-gift-card-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.playstation-store-gift-card-container {
+  align-self: stretch;
+  gap: 3px;
+}
+.gift-card-list22 {
+  position: absolute;
+  top: 1096px;
+  left: 426.3px;
+  width: 175px;
+  height: 242px;
+  gap: 19px;
+}
+.itunes-10000-yen-gift-card-itu-icon23 {
+  width: 106.6px;
+  flex: 1;
+  position: relative;
+  max-height: 100%;
+  overflow: hidden;
+  object-fit: contain;
+}
+.us402,
+.xbox-gift-card2 {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.xbox-gift-card2 {
+  align-self: stretch;
+  height: 48px;
+  line-height: 135%;
+  flex-shrink: 0;
+}
+.us402 {
+  width: 88px;
+  line-height: 22px;
+  white-space: nowrap;
+}
+.gift-card-list23,
+.xbox-gift-card-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.xbox-gift-card-container {
+  align-self: stretch;
+  gap: 3px;
+}
+.gift-card-list23 {
+  position: absolute;
+  top: 1096px;
+  left: 625.3px;
+  width: 175px;
+  height: 242px;
+  gap: 19px;
+}
+.itunes-10000-yen-gift-card-itu-icon24 {
+  width: 106.6px;
+  flex: 1;
+  position: relative;
+  max-height: 100%;
+  overflow: hidden;
+  object-fit: contain;
+}
+.best-buy-gift2,
+.us352 {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.best-buy-gift2 {
+  align-self: stretch;
+  height: 48px;
+  line-height: 135%;
+  flex-shrink: 0;
+}
+.us352 {
+  width: 88px;
+  line-height: 22px;
+  white-space: nowrap;
+}
+.best-buy-gift-card-container,
+.gift-card-list24 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.best-buy-gift-card-container {
+  align-self: stretch;
+  gap: 3px;
+}
+.gift-card-list24 {
+  position: absolute;
+  top: 1096px;
+  left: 824.3px;
+  width: 175px;
+  height: 242px;
+  gap: 19px;
+}
+.frame-child {
+  position: absolute;
+  top: 1370px;
+  left: 438.8px;
+  width: 150px;
+  height: 42.6px;
+}
+.gift-card-list-parent {
+  height: 1412.6px;
+  flex: 1;
+  position: relative;
+  min-width: 668px;
+  flex-shrink: 0;
+  max-width: 100%;
+  text-align: center;
+}
+.border-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 32px;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.navigation-container-parent {
+  width: 1280px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 32px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 16px;
+  color: #3a4f66;
+  font-family: Archivo;
+}
+.content,
+.product-listings {
+  display: flex;
+  align-items: flex-start;
+}
+.content {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 20px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.product-listings {
+  width: 100%;
+  position: relative;
+  background-color: #fff;
+  overflow: hidden;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 79.9px;
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1350px) {
+  .product-listings {
+    gap: 40px;
+  }
+}
+@media screen and (max-width: 900px) {
+  .navigation-list {
+    display: none;
+  }
+  .gift-card-list-parent {
+    min-width: 100%;
+  }
+  .border-parent,
+  .navigation-container-parent {
+    gap: 16px;
+  }
+  .product-listings {
+    gap: 20px;
+  }
+}

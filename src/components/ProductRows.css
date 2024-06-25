@@ -1,0 +1,47 @@
+.itunes-10000-yen-gift-card-itu-icon25 {
+  width: 106.6px;
+  height: 150px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+}
+.amazon-gift-card2,
+.us252 {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.amazon-gift-card2 {
+  align-self: stretch;
+  height: 48px;
+  line-height: 135%;
+  flex-shrink: 0;
+}
+.us252 {
+  width: 88px;
+  line-height: 22px;
+  white-space: nowrap;
+}
+.product-name-columns,
+.product-rows {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.product-name-columns {
+  align-self: stretch;
+  gap: 3px;
+}
+.product-rows {
+  flex: 1;
+  gap: 19px;
+  min-width: 171px;
+  max-width: 175px;
+  text-align: center;
+  font-size: 16px;
+  color: #3a4f66;
+  font-family: Archivo;
+}
