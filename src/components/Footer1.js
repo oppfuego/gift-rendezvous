@@ -112,6 +112,13 @@ const Footer1 = ({ className = "" }) => {
             </div>
           </div>
         </div>
+        <div className="full-width-stripe"></div>
+        <div className="footer-bottom-container">
+          <p>GalaxiCraft LLC</p>
+          <p>License number: 2325931</p>
+          <p>Sharjah Media City (Shams), Al Messaned, Al Bataeh, Sharjah, United Arab Emirates</p>
+        </div>
+
       </footer>
   );
 };
